@@ -1,0 +1,1 @@
+import{o as r,c as s,w as a,f as e,l as o}from"./index.52190199.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";var n=t({},[["render",function(t,n){const c=o;return r(),s(c,{class:""},{default:a((()=>[e(" 购物车 ")])),_:1})}]]);export{n as default};
